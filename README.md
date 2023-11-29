@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saurav Chavan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+from+India&color=F77F18&center=true&width=500&height=40"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer&color=F77F18&center=true&width=500&height=40"/>
 </p>
 
 <h3 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h3>
