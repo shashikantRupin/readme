@@ -94,6 +94,10 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <h4>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
 
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Saurav9284}/count.svg" alt="Saurav9284" :: Visitor's Count" /></p>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
  ## 👨‍💻CONNECT WITH ME:
@@ -106,9 +110,6 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <a href="https://www.linkedin.com/in/saurav-chavan/" target="https://www.linkedin.com/in/saurav-chavan/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
 </p>
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
-
-<br>
-<br>
 <hr>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
  👨‍💻MY WORKING TOOLS:
@@ -126,17 +127,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <hr>
-
-
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Saurav9284}/count.svg" alt="Saurav9284" :: Visitor's Count" /></p>
-
-<hr>
-
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
