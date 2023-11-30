@@ -83,7 +83,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
  <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;## 👨‍💻CONNECT WITH ME:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
 
