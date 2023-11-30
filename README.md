@@ -85,6 +85,15 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
  <hr>
 
+ <p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+
+✔️  I aspire to work as a programmer.
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+
+
+✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
  ## 👨‍💻CONNECT WITH ME:
