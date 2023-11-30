@@ -91,8 +91,9 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <h4>✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
 
-
 <h4>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
+
+<hr>
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
