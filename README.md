@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
- 👨‍💻ABOUT ME:
+ ## 👨‍💻ABOUT ME:
 <h3 align="center">
 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms..</h3>
 
@@ -85,7 +85,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
-  👨‍💻CONNECT WITH ME:
+ ## 👨‍💻CONNECT WITH ME:
 
 
 <p align="left">
@@ -100,7 +100,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <br>
 <hr>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-  👨‍💻MY WORKING TOOLS:
+ 👨‍💻MY WORKING TOOLS:
 <p>
 <div align="center" style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
