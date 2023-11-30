@@ -73,7 +73,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-<h3 align="center">About me ....
+
+## 👨‍💻ABOUT ME:
+<h3 align="center">
 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms..</h3>
 
 
