@@ -99,8 +99,8 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <br>
 <br>
 <hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h4>
- ## 👨‍💻MY WORKING TOOLS:
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  👨‍💻CONNECT WITH ME:
 <p>
 <div align="center" style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
