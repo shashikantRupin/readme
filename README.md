@@ -14,7 +14,7 @@
 
 <!--- - 💬 Ask me about *Web Development* --->
 
-- 📫 How to reach me :-  saurav178chavan@gmail.com
+<!-- 📫 How to reach me :-  saurav178chavan@gmail.com
 
 <!--- - 📄 Know about my experiences &nbsp; <a href="https://drive.google.com/file/d/1V6YjI9ekR3lIPcNDnVtJZhJCa14Nfmer/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/-Resume-orange?style=for-the-badge" alt="" /></a> --->
 
@@ -121,7 +121,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Saurav9284}/count.svg" alt="Saurav9284" :: Visitor's Count" /></p>
 
 <hr>
 
@@ -133,26 +133,26 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 </p>
 
 <p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=monumishra326&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Saurav9284&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
 <p>
-<a href="https://github.com/nikita09rathee"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita09rathee&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nikita09rathee&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/Saurav9284"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Saurav9284&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/nikita09rathee"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikita09rathee&theme=dracula" />
+<a href="https://github.com/Saurav9284"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurav9284&theme=dracula" />
 </span></a> </p>
 
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nikita09rathee&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saurav9284&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
 <hr clear="both">
