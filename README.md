@@ -13,8 +13,6 @@
 
 
 
-
-
 ## 👨‍💻ABOUT ME: 
 
 <h3 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h3>
