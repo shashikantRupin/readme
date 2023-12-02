@@ -11,9 +11,6 @@
 
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif" />
 
-
-
-
 <!--- - 💬 Ask me about *Web Development* --->
 
 <!-- 📫 How to reach me :-  saurav178chavan@gmail.com
