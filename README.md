@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer&color=F77F18&center=true&width=500&height=40"/>
 </p>
 
- 
 
 ## 👨‍💻ABOUT ME: 
 
