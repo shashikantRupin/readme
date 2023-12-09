@@ -108,6 +108,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 
 <p align="left">
+  <a href="https://saurav9284.github.io/" target="https://saurav9284.github.io/"><img align="center" src="https://img.shields.io/badge/-Portfolio-0e76a8?style=for-the-badge&logo=Portfolio&logoColor=white" alt="" /></a>
   <a href="https://github.com/Saurav9284">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
