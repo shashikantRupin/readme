@@ -1,3 +1,4 @@
+
 <!---<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saurav Chavan</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer&color=F77F18&center=true&width=500&height=40"/>
@@ -113,6 +114,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
 <a href="https://www.linkedin.com/in/saurav-chavan/" target="https://www.linkedin.com/in/saurav-chavan/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
+  ![Portfolio](https://github.com/Saurav9284/Saurav9284/assets/135011685/3b246409-ff6b-40dd-aa02-30a3116d946e)
 </p>
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 <hr>
