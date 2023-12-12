@@ -157,27 +157,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
-
-<p align="left" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Saurav9284&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727 width="350px"  />
-</p>
- 
-<p>
-<a href="https://github.com/Saurav9284"><span>
-<!---<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi"/>--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Saurav9284&show_icons=true&locale=en&theme=chartreuse-light" alt="ovi" width="350px"/>
-</span></a> </p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
- <br/>
-<p align="center">
-<a href="https://github.com/Saurav9284"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurav9284&theme=dracula" />
-</span></a> </p>
-
- <br/>
- 
-
-<hr clear="both">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Saurav9284&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Saurav9284&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
