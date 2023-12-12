@@ -159,13 +159,13 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 </p>
 
 <p align="left" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Saurav9284&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Saurav9284&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727 width="350px"  />
 </p>
  
 <p>
 <a href="https://github.com/Saurav9284"><span>
 <!---<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi"/>--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Saurav9284&show_icons=true&locale=en&theme=chartreuse-light" alt="ovi" width="400px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Saurav9284&show_icons=true&locale=en&theme=chartreuse-light" alt="ovi" width="350px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
