@@ -1,5 +1,5 @@
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=435&lines=Hey++there+%2C+I'm+Saurav+Chavan)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=700&lines=Hey++there+%2C+I'm+Saurav+Chavan)</div>](https://git.io/typing-svg)
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7517A&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer;1500%2B+Hours+of+Coding+Experience;700%2B+DSA+Questions+Solved)</div>](https://git.io/typing-svg)
 
 <hr>
