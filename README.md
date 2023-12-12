@@ -73,29 +73,29 @@ You can click the Preview link to take a look at your changes.
  <!---<a href="#"><img align="center" width="50%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="loading..."></a> ---->
 
 
-<h4><samp><strong> You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
+<!---<h4><samp><strong> You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; --->
 
- ## 👨‍💻ABOUT ME:
-<h3 align="center">
-I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms..</h3>
+ #### 👨‍💻ABOUT ME:
+<h4 align="center">
+I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms..</h4>
 
 
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <!---<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />--->
 
  <hr>
 
- <h3> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h3>
+ #### What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h3>
 
-<h4>✔️I aspire to work as a programmer.</h4>
+<h5>✔️I aspire to work as a programmer.</h4>
 
-<h4>✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
+<h5>✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
 
-<h4>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
+<h5>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
 
 <hr>
 
@@ -103,13 +103,14 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Saurav9284}/count.svg" alt="Saurav9284" :: Visitor's Count" /></p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
- ## 👨‍💻CONNECT WITH ME:
+<!---<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;--->
+<!---<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">--->
+<hr>
+
+ #### 👨‍💻CONNECT WITH ME:
 
 ![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5)
 <p align="left">
-<!--   <a href="https://saurav9284.github.io/" target="https://saurav9284.github.io/"><img align="center" src="https://img.shields.io/badge/-Portfolio-0e76a8?style=for-the-badge&logo=Portfolio&logoColor=white" alt="" /></a> -->
   <a href="https://saurav9284.github.io">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
@@ -117,8 +118,8 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 </p>
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 <hr>
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
- 👨‍💻TECH STACK & WORKING TOOLS:
+
+ #### 👨‍💻TECH STACK & WORKING TOOLS:
 <p>
 <div align="center" style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -157,14 +158,14 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 
-<p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Saurav9284&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<p align="left" >
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Saurav9284&theme=light&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
 <p>
 <a href="https://github.com/Saurav9284"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Saurav9284&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<!---<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi"/>--->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Saurav9284&show_icons=true&locale=en&theme=chartreuse-light" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
