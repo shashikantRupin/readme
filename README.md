@@ -65,10 +65,13 @@ Saurav9284/Saurav9284 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5)
-<a href="#"><img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="loading..."></a>
-<h1 align="left" >Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Saurav Chavan </h1>
-<a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;700%2B+DSA+Questions+Solved;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=435&lines=Hey++there+%2C+I'm+Saurav+Chavan)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7517A&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer;1500%2B+Hours+of+Coding+Experience;700%2B+DSA+Questions+Solved)</div>](https://git.io/typing-svg)
+
+<hr>
+
+ <!---<a href="#"><img align="center" width="50%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="loading..."></a> ---->
+
 
 <h4><samp><strong> You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
@@ -104,7 +107,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
  ## 👨‍💻CONNECT WITH ME:
 
-
+![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5)
 <p align="left">
 <!--   <a href="https://saurav9284.github.io/" target="https://saurav9284.github.io/"><img align="center" src="https://img.shields.io/badge/-Portfolio-0e76a8?style=for-the-badge&logo=Portfolio&logoColor=white" alt="" /></a> -->
   <a href="https://saurav9284.github.io">
