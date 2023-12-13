@@ -34,7 +34,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
  #### 👨‍💻CONNECT WITH ME:
 
-![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5)
+<!--- ![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5) --->
 
 <p align="left">
   <a href="https://saurav9284.github.io">
