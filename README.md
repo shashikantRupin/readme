@@ -1,12 +1,12 @@
 
-## 👋 Hi there, I'm Saurav Chavan
+## 👋 Hi there, I'm Saurav Chavan 😊
 <!---[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=750&lines=Hey++there+%2C+I'm+Saurav+Chavan)</div>](https://git.io/typing-svg) --->
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
-I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms..</h4>
+I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
 <br/>
 
 * 🌍  I hail from Aurangabad, Maharashtra.
@@ -18,11 +18,11 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
  #### What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h3>
 
-<h4>✔️I aspire to work as a programmer.</h4>
+<h4>✅ I aspire to work as a programmer.</h4>
 
-<h4>✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
+<h4>✅ I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
 
-<h4>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
+<h4>✅ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
 
 <hr>
 
