@@ -89,5 +89,5 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <img src="https://github-readme-stats.vercel.app/api?username=Saurav9284&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Saurav9284&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
- -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+
