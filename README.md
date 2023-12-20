@@ -91,7 +91,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 </div>
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurav9284&show_icons=true&locale=en&layout=compact&theme=default&hide_border" alt="ovi"/>
  
 
 
