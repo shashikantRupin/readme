@@ -86,7 +86,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 <div align="center">
-<img className="github-stats-card" id="github-stats-card"
+<img align="left" width="45%" className="github-stats-card" id="github-stats-card"
               src="https://github-readme-stats.vercel.app/api?username=Saurav9284&count_private=true&theme=light"
               alt="stat-card" />
 <img className="github-streak-stats" id="github-streak-stats"
