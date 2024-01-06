@@ -8,6 +8,7 @@
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
+
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
 I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
