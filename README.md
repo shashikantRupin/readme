@@ -51,7 +51,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
   </a>
 </p>
 
-<img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+
 
 <hr>
 
