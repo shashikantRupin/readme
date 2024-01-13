@@ -97,8 +97,9 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <br>
 <br>
   <img  className="github-top-langs" id="github-top-langs"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav9284&lans-count=3&show_icons=true&theme=light"
-              alt="top_languages" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav9284&layout=compact&theme=light&hide_border=true"
+              alt="top laguges"
+              id="github-top-langs" />
  
 
 
